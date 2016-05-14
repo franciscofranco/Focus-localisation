@@ -179,13 +179,13 @@
     <string name="saving">Saving…</string>
     <string name="import_tags_summary">Touch to automatically detect and organize tagged photos on your device</string>
     <string name="import_tags_toast">Reading metadatas and organizing your photos…</string>
-    <string name="security_picture_viewer">Enter your passcode to unlock the picture viewer</string>
-    <string name="verify_new_passcode">Verify your new passcode</string>
-    <string name="passcode_no_match">Passcodes did not match</string>
-    <string name="edit_passcode">Edit passcode</string>
-    <string name="confirm_passcode">Confirm your passcode</string>
-    <string name="app_lock_title">App unlock</string>
-    <string name="new_passcode">New passcode</string>
-    <string name="search">Search</string>
-    <string name="search_hint">Try searching a tag \'Food\'</string>
+    <string name="security_picture_viewer">Gib dein Passwort ein um die App zu entsperren </string>
+    <string name="verify_new_passcode">Verifiziere dein Passwort</string>
+    <string name="passcode_no_match">Passwörter sind nicht gleich</string>
+    <string name="edit_passcode">Passwort bearbeiten</string>
+    <string name="confirm_passcode">Passwort bestätigen</string>
+    <string name="app_lock_title">App Entsperrung</string>
+    <string name="new_passcode">Neues Passwort</string>
+    <string name="search">Suche</string>
+    <string name="search_hint">Versuche nach einem Tag zu suchen \'Essen\'</string>
 </resources>
