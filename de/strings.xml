@@ -63,7 +63,7 @@
     <string name="donation_item_summary">Ein extra großes Dankeschön für unsere Mühe. Du wirst belohnt mit einer Medialle im Header des Nav-Drawers als Zeichen unserer Dankbarkeit :D</string>
     <string name="no_tags_title">Es wurden noch keine Bilder getaggt!</string>
     <string name="lock">Sperrung</string>
-    <string name="no_snooping">Kein weiterwischen!</string>
+    <string name="no_snooping">Kein Weiterwischen!</string>
     <string name="no_snooping_new_pwd">Gebe einen neuen 4- oder 6-stelligen Zifferncode ein</string>
     <string name="snooping_pwd_too_small">Passwort zu kurz. Es muss mindestens 4 Ziffern beinhalten</string>
     <string name="swiping_lock_pwd_title">Passwort</string>
