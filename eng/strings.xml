@@ -35,7 +35,7 @@
     <string name="tag_empty_warning">Tag name cannot be empty</string>
     <string name="tag_exists_warning">Tag name already exists</string>
     <string name="tag_default_exists_warning">Tag name cannot be equal to one of the default tag\'s name</string>
-    <string name="tags_manager_title">Manage tags</string>
+    <string name="tags_manager_title">Manage collections</string>
     <string name="no_thanks">No thanks</string>
     <string name="go_premium">Go premium</string>
     <string name="go_premium_1_title">Custom tags</string>
@@ -88,7 +88,7 @@
     <string name="social">Social</string>
     <string name="support_title">Support</string>
     <string name="have_a_problem">Have a suggestion? Or a problem?</string>
-    <string name="no_camera_activity">You don\'t have any camera application that supports this shortcut</string>
+    <string name="no_camera_activity">You don\'t have any cameraTitle application that supports this shortcut</string>
     <string name="january">January</string>
     <string name="february">February</string>
     <string name="march">March</string>
@@ -114,7 +114,7 @@
     <string name="bonus_material">Bonus material</string>
     <string name="bonus_material_summary">Podcast episode with detailed discussion about the development process</string>
     <string name="rate_us">Rate Focus</string>
-    <string name="rate_us_summary">Leave us a review on the Play Store</string>
+    <string name="rate_us_summary">Write a review on the Play Store, it helps us immensely!</string>
     <string name="videos_tag_title">Group videos</string>
     <string name="videos_tag_summary_on">All videos appear in a single collection</string>
     <string name="videos_tag_summary_off">Videos appear in their native folders</string>
@@ -129,8 +129,7 @@
     <string name="camera_tag_summary_on">Shows at the top of the main screen</string>
     <string name="camera_tag_title">Camera tag</string>
     <string name="storage_permission">Focus needs permission to show your images and videos</string>
-    <string name="the_vault">The vault</string>
-    <string name="vault_title_activity">Vault</string>
+    <string name="the_vault">Vault</string>
     <string name="add_to_vault">Add to vault</string>
     <string name="secret">Secret</string>
     <string name="remove_from_vault">Remove from vault</string>
@@ -188,4 +187,20 @@
     <string name="new_passcode">New passcode</string>
     <string name="search">Search</string>
     <string name="search_hint">Try searching a tag \'Food\'</string>
+    <string name="translate_title">Help us translate Focus</string>
+    <string name="open_me">Open sesame</string>
+    <string name="muzei_settings">Options</string>
+    <string name="wallpaper_cycle">Wallpaper cycle</string>
+    <string name="every_hour">Every hour</string>
+    <string name="every_3_hours">Every 3 hours</string>
+    <string name="every_6_hours">Every 6 hours</string>
+    <string name="every_24_hours">Every 24 hours</string>
+    <string name="every_3_days">Every 3 days</string>
+    <string name="muzei_change_interval">Wallpaper change interval</string>
+    <string name="wallpaper_source">Wallpaper source</string>
+    <string name="voila">Voila!</string>
+    <string name="print_picture">Print picture</string>
+    <string name="error">Playback error</string>
+    <string name="bugtracker_summary">Report bugs or problems you find</string>
+    <string name="bugtracker_title">Bugtracker</string>
 </resources>
