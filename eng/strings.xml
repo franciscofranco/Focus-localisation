@@ -57,7 +57,7 @@
     <string name="create_a_new_tag_long_press">Create a new tag</string>
     <string name="reset_visibility">Reset visibility</string>
     <string name="premium_item_title">Premium</string>
-    <string name="premium_item_summary">Custom tags\nControl over your collections\nDark theme\n\'No snooping\' support\nApp lock\nMuzei live wallpaper support\nAccess to future features like Google Photos support</string>
+    <string name="premium_item_summary">Custom tags\nControl over your collections\nDark theme\n\'No snooping\' support\nApp lock\nMuzei live wallpaper support\nAccess to amazing future features</string>
     <string name="premium_donation_item_title">Premium + Donation</string>
     <string name="premium_donation_item_summary">All the premium features plus a donation for our efforts. You\'ll be awarded a medal that\'ll be displayed on the nav drawer header as a token of appreciation :D</string>
     <string name="donation_item_summary">An extra thank you for our efforts. You\'ll be awarded a medal that\'ll be displayed on the nav drawer header as a token of appreciation :D</string>
@@ -148,6 +148,7 @@
     <string name="choose_a_picture">Choose a picture</string>
     <string name="become_a_supporter">Become a supporter</string>
     <string name="supporter_description">Support Focus development with a small monthly contribution to unlock all premium features, a gold banner for your nav drawer, a golden launcher icon, and our unending gratitude!</string>
+    <string name="supporter_description_premium">Support Focus development with a small monthly contribution unlocking a beautiful gold banner for your nav drawer and a golden launcher icon to show off your support, and our unending gratitude!</string>
     <string name="app_icon">App icon</string>
     <string name="security">Security</string>
     <string name="applock_title">App lock</string>
