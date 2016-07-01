@@ -28,7 +28,7 @@
     <string name="tags_help_summary">\n¡Mantén tus fotos organizadas añadiendo etiquetas! Encuentra tus fotos etiquetadas en el menú de navegación.</string>
     <string name="save">Guardar</string>
     <string name="tag_name_hint">Nombre de la etiqueta</string>
-    <string name="collections_help_summary">Ve más allá y busca tus fotos por su fecha/string>
+    <string name="collections_help_summary">Ve más allá y busca tus fotos por su fecha</string>
     <string name="tag_whitespace_warning">La etiqueta no puede contener espacios en blanco</string>
     <string name="tag_length_warning">La etiqueta no puede contener más de 15 caracteres</string>
     <string name="tag_separator_warning">La etiqueta no puede contener caracteres separadores (ej. \'/\' o \':\')</string>
@@ -57,7 +57,7 @@
     <string name="create_a_new_tag_long_press">Crear una nueva etiqueta</string>
     <string name="reset_visibility">Reiniciar visibilidad</string>
     <string name="premium_item_title">Premium</string>
-    <string name="premium_item_summary">Etiquetas personalizadas\nControl sobre tus colecciones\nTema oscuro\n\Soporte de 'Sin fisgones\'\nBloqueo de aplicación\nSoporte de Muzei live wallpaper\nAcceso a futuras funciones como el soporte de Google Fotos</string>
+    <string name="premium_item_summary">Etiquetas personalizadas\nControl sobre tus colecciones\nTema oscuro\n\Soporte de \'Sin fisgones\'\nBloqueo de aplicación\nSoporte de Muzei live wallpaper\nAcceso a futuras funciones como el soporte de Google Fotos</string>
     <string name="premium_donation_item_title">Premium + Donación</string>
     <string name="premium_donation_item_summary">Todas las funciones premium más una donación por nuestros esfuerzos. All the premium features plus a donation for our efforts. Serás recompensado con una medalla que será mostrada en el menú de navegación en señal de apreciación :D</string>
     <string name="donation_item_summary">Un agradecimiento extra por nuestros esfuerzos. Serás recompensado con una medalla que será mostrada en el menú de navegación en señal de apreciación :D</string>
