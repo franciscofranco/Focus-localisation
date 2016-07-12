@@ -80,9 +80,9 @@
     <string name="muzei_description">Bilder von einem Tag ausgewählt in Focus</string>
     <string name="picture_taken_time">Datum</string>
     <string name="interface_title">Personalisierung</string>
-    <string name="theme_title">Theme</string>
-    <string name="light">Light</string>
-    <string name="dark">Dark</string>
+    <string name="theme_title">Thema</string>
+    <string name="light">Hell</string>
+    <string name="dark">Dunkel</string>
     <string name="go_premium_3_title">Besseres Focus im Dunkeln</string>
     <string name="go_premium_3_summary">Schalte das Dark Theme an, um Focus nachts besser benutzen zu können.</string>
     <string name="social">Social</string>
@@ -188,4 +188,20 @@
     <string name="new_passcode">Neues Passwort</string>
     <string name="search">Suche</string>
     <string name="search_hint">Versuche nach einem Tag zu suchen \'Essen\'</string>
+    <string name="translate_title">Hilf uns Focus zu übersetzen</string>
+    <string name="open_me">Sesam öffne dich</string>
+    <string name="muzei_settings">Optionen</string>
+    <string name="wallpaper_cycle">Wechsel des Hintergrundes</string>
+    <string name="every_hour">Jede Stunde</string>
+    <string name="every_3_hours">Alle 3 Stunden</string>
+    <string name="every_6_hours">Alle 6 Stunden</string>
+    <string name="every_24_hours">Alle 24 Stunden</string>
+    <string name="every_3_days">Alle 3 Tage</string>
+    <string name="muzei_change_interval">Änderungsintervall</string>
+    <string name="wallpaper_source">Quelle des Hintergrundes</string>
+    <string name="voila">Voila!</string>
+    <string name="print_picture">Bild drucken</string>
+    <string name="error">Wiedergabe Fehler</string>
+    <string name="bugtracker_summary">Melde gefundene Fehler und Probleme</string>
+    <string name="bugtracker_title">Bugtracker</string>
 </resources>
